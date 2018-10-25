@@ -16,12 +16,12 @@ class App extends Component {
           destination="la plage"
           character="Moi a la plage"
           country="Espagne"
-          image="*"
+          image="http://cercamon.e.c.f.unblog.fr/files/2010/05/losroques399.jpg"
           distance="1800km"/>
         <Travel 
           destination="montagne"
           country="France"
-          image="*"
+          image="https://www.etapes-marocaines.com/files/2015/02/voyage-maroc-montagne_grand.jpg"
           distance="1100km"
         />
       </div>
